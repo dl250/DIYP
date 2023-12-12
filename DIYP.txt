@@ -1,2 +1,2 @@
 法国,#genre#
-小法国女仆,b.xhcdn.com/token=nva=1702044000~dirs=5~hash=076ee3fff5e36a56475e5/media=hls4/multi=256x144:144p:,426x240:240p:,854x480:480p:/018/987/704/480p.av1.mp4.m3u8
+小法国女仆,https://edge6-ash.live.mmcdn.com/live-edge/amlst:iam_eli-sd-6a883986877d4685739d5ece0e43cf168b4d14d59ffcbb0cb7424fe9179b1727_trns_h264/chunklist_w980470568_b5128000_t64RlBTOjMwLjA=.m3u8
