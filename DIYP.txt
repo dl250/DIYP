@@ -3,3 +3,4 @@
 2,https://edge23-ash.live.mmcdn.com/live-hls/amlst:mayabaee1-sd-ebb9f24b965ba34e8bb843862e3e0a1368849ac9da733acfe0730b6e80c38038_trns_h264/chunklist_w1942733199_b5128000_t64RlBTOjMwLjA=.m3u8
 3,https://edge23-ash.live.mmcdn.com/live-hls/amlst:jenny_skyy-sd-4ef3b34b7c5669ff62e2e4fe6a071e2ea40b502735a06bf96d3a443cdb231296_trns_h264/chunklist_w1081904900_b5128000_t64RlBTOjMwLjA=.m3u8
 4,https://edge18-ash.live.mmcdn.com/live-hls/amlst:intim_mate-sd-4bf51e6605bfbbff81484bb2606978a0e4efeb51c2e007fec222b94508b6151d_trns_h264/chunklist_w906632000_b5128000_t64RlBTOjMwLjA=.m3u8
+5,https://edge7-ash.live.mmcdn.com/live-edge/amlst:manilluv-sd-ff12b7c538c16cb071c8c0ec7a6ae31181567bd6e7948f4c65f30dcd7b932bcd_trns_h264/chunklist_w2011123827_b448000_t64RlBTOjMwLjA=.m3u8
