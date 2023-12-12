@@ -1,7 +1,5 @@
 日本,#genre#
 SDDE-672,https://galav-oxwy.mushroomtrack.com/hls/tz_57J36B-82ejap19OqDw/1702369766/27000/27046/27046.m3u8
-HUNTB-374,https://cdn1.thedayweplay.lol/25/vod2/43/f8/dkog5po2_12a3dc61f90b4742e8d478478eedff049e2fb2555fb5bf/720/v.m3u8
-DVDES-809,https://cdn1.thedayweplay.lol/22/vod2/fe/74/dkov4vm2_12a3dc61f90c4742e8d478478eedff049e2fb2555fb5bf/720/v.m3u8
 
 古装,#genre#
 1,https://hls-uranus.sb-cd.com/hls/1/2/12116410-,720p,.mp4.urlset/master.m3u8?secure=jwhMsBW9IsvUzORD8gVIBw,1702400751&m=41&d=1&_tid=12116410
