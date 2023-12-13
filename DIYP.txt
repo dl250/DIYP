@@ -8,4 +8,5 @@ SDDE-672,https://galav-oxwy.mushroomtrack.com/hls/tz_57J36B-82ejap19OqDw/1702369
 4,https://hls-uranus.sb-cd.com/hls/6/5/6595152-,480p,.mp4.urlset/master.m3u8?secure=Zo2GM85hfy3zWZrkaEbsiQ,1702400951&m=29&d=1&_tid=6595152
 5,https://hls-uranus.sb-cd.com/hls/9/8/9887150-,480p,.mp4.urlset/master.m3u8?secure=4lDxQSyMtpsXuzjFFWB9rA,1702401038&m=28&d=1&_tid=9887150
 6,https://hls-uranus.sb-cd.com/hls/8/8/8813193-,480p,.mp4.urlset/master.m3u8?secure=qlpjyXIggNvNUgffF8SAoA,1702401150&m=19&d=5&_tid=8813193
-7,
+
+主播,#genre#
