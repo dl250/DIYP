@@ -1,6 +1,5 @@
 日本,#genre#
 SDDE-672,https://galav-oxwy.mushroomtrack.com/hls/tz_57J36B-82ejap19OqDw/1702369766/27000/27046/27046.m3u8
-
 古装,#genre#
 1,https://hls-uranus.sb-cd.com/hls/1/2/12116410-,720p,.mp4.urlset/master.m3u8?secure=jwhMsBW9IsvUzORD8gVIBw,1702400751&m=41&d=1&_tid=12116410
 2,https://hls-uranus.sb-cd.com/hls/8/4/8448436-,480p,.mp4.urlset/master.m3u8?secure=JhkXP6yS060sW02j-gQRqA,1702400820&m=30&d=3&_tid=8448436
@@ -8,5 +7,4 @@ SDDE-672,https://galav-oxwy.mushroomtrack.com/hls/tz_57J36B-82ejap19OqDw/1702369
 4,https://hls-uranus.sb-cd.com/hls/6/5/6595152-,480p,.mp4.urlset/master.m3u8?secure=Zo2GM85hfy3zWZrkaEbsiQ,1702400951&m=29&d=1&_tid=6595152
 5,https://hls-uranus.sb-cd.com/hls/9/8/9887150-,480p,.mp4.urlset/master.m3u8?secure=4lDxQSyMtpsXuzjFFWB9rA,1702401038&m=28&d=1&_tid=9887150
 6,https://hls-uranus.sb-cd.com/hls/8/8/8813193-,480p,.mp4.urlset/master.m3u8?secure=qlpjyXIggNvNUgffF8SAoA,1702401150&m=19&d=5&_tid=8813193
-
 主播,#genre#
