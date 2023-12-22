@@ -1,5 +1,11 @@
 日本,#genre#
 SDDE-672,https://be2719.rcr22.ams01.cdn112.com/hls2/01/01582/lvois03y67zk_h/master.m3u8?t=c3Z9PI2PTMk3OUiAd6G2XuE6-CvagrxSfNkzGwyOvC8&s=1703052038&e=43200&f=7911549&srv=24&asn=7922&sp=2000
+IPZZ-039,https://dash-s16-n10-nl-cdn.eporner.com/hls/srv10/9260356-2160p.mp4/index-v1-a1.m3u8?hash=-k6bFlaydmVLoqJd3JHQ1Q&expires=1703317805&ip=192.155.87.25&id=9260356
+IPZZ-039,https://dash-s16-n10-nl-cdn.eporner.com/hls/srv10/9260356-1080p.mp4/index-v1-a1.m3u8?hash=-k6bFlaydmVLoqJd3JHQ1Q&expires=1703317805&ip=192.155.87.25&id=9260356
+SIS-123,https://dash-s4-n10-ca-cdn.eporner.com/hls/srv3/9695787-1080p.mp4/index-v1-a1.m3u8?hash=hOwhsQwh_oDb52gOpeZ4RA&expires=1703318397&ip=172.234.85.208&id=9695787
+MIDV383,https://dash-s3-n10-ca-cdn.eporner.com/hls/srv6/9674564-2160p.mp4/index-v1-a1.m3u8?hash=rfBU20Tl355YdUcxqETz-Q&expires=1703318928&ip=172.234.85.208&id=9674564
+MIDV383,https://dash-s3-n10-ca-cdn.eporner.com/hls/srv6/9674564-1080p.mp4/index-v1-a1.m3u8?hash=rfBU20Tl355YdUcxqETz-Q&expires=1703318928&ip=172.234.85.208&id=9674564
+
 
 古装,#genre#
 1,https://hls-uranus.sb-cd.com/hls/1/2/12116410-,720p,.mp4.urlset/master.m3u8?secure=jwhMsBW9IsvUzORD8gVIBw,1702400751&m=41&d=1&_tid=12116410
