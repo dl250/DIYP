@@ -1,5 +1,6 @@
 日本,#genre#
 SDDE-672,https://be2719.rcr22.ams01.cdn112.com/hls2/01/01582/lvois03y67zk_h/master.m3u8?t=c3Z9PI2PTMk3OUiAd6G2XuE6-CvagrxSfNkzGwyOvC8&s=1703052038&e=43200&f=7911549&srv=24&asn=7922&sp=2000
+
 古装,#genre#
 1,https://hls-uranus.sb-cd.com/hls/1/2/12116410-,720p,.mp4.urlset/master.m3u8?secure=jwhMsBW9IsvUzORD8gVIBw,1702400751&m=41&d=1&_tid=12116410
 2,https://hls-uranus.sb-cd.com/hls/8/4/8448436-,480p,.mp4.urlset/master.m3u8?secure=JhkXP6yS060sW02j-gQRqA,1702400820&m=30&d=3&_tid=8448436
@@ -7,6 +8,7 @@ SDDE-672,https://be2719.rcr22.ams01.cdn112.com/hls2/01/01582/lvois03y67zk_h/mast
 4,https://hls-uranus.sb-cd.com/hls/6/5/6595152-,480p,.mp4.urlset/master.m3u8?secure=Zo2GM85hfy3zWZrkaEbsiQ,1702400951&m=29&d=1&_tid=6595152
 5,https://hls-uranus.sb-cd.com/hls/9/8/9887150-,480p,.mp4.urlset/master.m3u8?secure=4lDxQSyMtpsXuzjFFWB9rA,1702401038&m=28&d=1&_tid=9887150
 6,https://hls-uranus.sb-cd.com/hls/8/8/8813193-,480p,.mp4.urlset/master.m3u8?secure=qlpjyXIggNvNUgffF8SAoA,1702401150&m=19&d=5&_tid=8813193
+
 主播,#genre#
 1,https://cdnb.cdn9527.com/contents/videos/128000/128049/128049.m3u8
 2,https://siwazywcdn3.com:5278/cvguochanzipai/HSfpMTjO/index.m3u8
