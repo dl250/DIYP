@@ -164,4 +164,6 @@ SDDE-672,https://be2719.rcr22.ams01.cdn112.com/hls2/01/01582/lvois03y67zk_h/mast
 152,https://taiav.com/videos/202112/10/61b0dbe3248cee514de3a37d/fdc326/index.m3u8?random=b1a63CAc4G8Gdg1Fg84A
 153,https://yunlaopo.net/get_file/3/a7c76bcd30908f72db5c456ac97afb775c4f2f21c7/353000/353584/353584_720p.mp4/
 154,https://yunlaopo.net/get_file/3/0114ef7ecca30985415f07bd0e6244541c5c944562/352000/352623/352623_720p.mp4/
-155,
+155,https://yunlaopo.net/get_file/3/20e7191cfdd381decefd4b99fa7787b382b44bd9d2/350000/350522/350522_720p.mp4/
+156,https://v.xbv2.com/20230922/EH8VuaBr/1000kb/hls/index.m3u8
+157,
