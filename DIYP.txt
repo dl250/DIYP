@@ -173,7 +173,13 @@ MIDV383,https://dash-s3-n10-ca-cdn.eporner.com/hls/srv6/9674564-1080p.mp4/index-
 153,https://yunlaopo.net/get_file/3/a7c76bcd30908f72db5c456ac97afb775c4f2f21c7/353000/353584/353584_720p.mp4/
 154,https://yunlaopo.net/get_file/3/0114ef7ecca30985415f07bd0e6244541c5c944562/352000/352623/352623_720p.mp4/
 155,https://yunlaopo.net/get_file/3/20e7191cfdd381decefd4b99fa7787b382b44bd9d2/350000/350522/350522_720p.mp4/
-156,https://v.xbv2.com/20230922/EH8VuaBr/1000kb/hls/index.m3u8
+156,https://ccc3.woaizhonghua-1.com/cdn2023/202312/24/6586b49af7daf10ae27faa17/54c862/index.m3u8
+157,https://ccc3.woaizhonghua-1.com/cdn2023/202311/28/6563f203be39d80acfdf131b/0c3751/index.m3u8
+158,https://ccc3.woaizhonghua-1.com/cdn2023/202311/22/655c2df96f39000b7aec9429/470e77/index.m3u8
+159,https://ccc3.woaizhonghua-1.com/cdn2023/202311/22/655c2df96f39000b7aec947e/e901c2/index.m3u8
+160,https://vdownload-43.sb-cd.com/1/4/14414272-720p.mp4?secure=nS6MxNycKYtbGjxSEcZWcA,1703443109&m=43&d=1&_tid=14414272
+161,https://vdownload-41.sb-cd.com/1/3/13970060-1080p.mp4?secure=mKW9m6M-MjCaPUZHCcJ2Ow,1703443164&m=41&d=1&_tid=13970060
+
 
 Hegre Art,#genre#
 1,https://vdownload-28.sb-cd.com/1/1/11967629-4k.mp4?secure=gKPgEhSPLULYooZ3acXmIw,1703265651&m=28&d=4&_tid=11967629
