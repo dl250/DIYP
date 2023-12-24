@@ -185,7 +185,9 @@ MIDV383,https://dash-s3-n10-ca-cdn.eporner.com/hls/srv6/9674564-1080p.mp4/index-
 164,https://siwazywcdn3.com:5278/cvguochanzipai/pLI6Xa3Q/index.m3u8
 165,https://siwazywcdn3.com:5278/cvguochanzipai/Y4CfaiMP/index.m3u8
 166,https://t23a.cdn2020.com/video/m3u8/2023/12/04/6b10ded4/index.m3u8
-167,
+167,https://t23a.cdn2020.com/video/m3u8/2023/09/11/295f1942/index.m3u8
+168,https://t22a.cdn2020.com/video/m3u8/2023/08/28/8d5391bf/index.m3u8
+169,
 
 Hegre Art,#genre#
 1,
