@@ -37,7 +37,16 @@ IPZZ-056,https://zippa-hala.mushroomtrack.com/hls/8GCRBFDZMn61vcxuG--VNQ/1703746
 7,https://s72.bigcdn.cc/pubs/658ce7ef489804.60427191/1080.mp4
 8,https://s45.bigcdn.cc/pubs/658cdc8817b263.13076731/1080.mp4
 9,https://s86.bigcdn.cc/pubs/658ce95b31db27.41999323/1080.mp4
-10,
+10,https://dash-s27-n10-fr-cdn.eporner.com/hls/srv5/9313932-1440p.mp4/index-v1-a1.m3u8?hash=mnscQpaiSfxDt7tYWL_pxQ&expires=1703835692&ip=46.3.240.86&id=9313932
+10,https://dash-s27-n10-fr-cdn.eporner.com/hls/srv5/9313932-1080p.mp4/index-v1-a1.m3u8?hash=mnscQpaiSfxDt7tYWL_pxQ&expires=1703835692&ip=46.3.240.86&id=9313932
+11,https://dash-s3-n10-nl-cdn.eporner.com/hls/srv10/9019268-1440p-av1.mp4/index-v1-a1.m3u8?hash=1_AEFtzasmaMSYnUC4Qx-g&expires=1703836121&ip=46.3.240.86&id=9019268
+11,https://dash-s3-n10-nl-cdn.eporner.com/hls/srv10/9019268-1080p-av1.mp4/index-v1-a1.m3u8?hash=1_AEFtzasmaMSYnUC4Qx-g&expires=1703836121&ip=46.3.240.86&id=9019268
+12,https://cv-h.phncdn.com/hls/videos/201901/30/204794811/,1080P_4000K,720P_4000K,480P_2000K,240P_400K,_204794811.mp4.urlset/index-f1-v1-a1.m3u8?yU1XnsovUdhU9IMv7RPkVU72GuFSgqcuR-9bAoD3fuiIXkEq07hgea0ZEDxrbJy0y6u46T7SOv5jmkIRyRDOg09M_JXv554Wq9faCTId49mIkxM4BhdY72KBRgC3MI-P2zTG1fbL5gHoZIqSVFgyzAZ5cqpl8R2acR6vDMu1mpSitw2W44XBK3OmfOXkIQWQN01l4RM
+13,https://ev-h.phncdn.com/hls/videos/202112/16/399759001/,220929_0601_1080P_4000K,220929_0601_720P_4000K,220929_0601_480P_2000K,220929_0601_240P_1000K,_399759001.mp4.urlset/index-f1-v1-a1.m3u8?validfrom=1703747238&validto=1703754438&ipa=46.3.240.86&hdl=-1&hash=ZdPLVYAawNP6f7ac8hZdQFflNG8%3D
+14,https://dash-s31-n10-de-cdn.eporner.com/hls/srv3/9245796-2160p.mp4/index-v1-a1.m3u8?hash=oXL1YbY3LjjLE8QU2eNREA&expires=1703837773&ip=46.3.240.86&id=9245796
+14,https://dash-s31-n10-de-cdn.eporner.com/hls/srv3/9245796-1080p.mp4/index-v1-a1.m3u8?hash=oXL1YbY3LjjLE8QU2eNREA&expires=1703837773&ip=46.3.240.86&id=9245796
+15,https://ev.phncdn.com/videos/202201/09/401033281/221003_2332_1080P_8000K_401033281.mp4?validfrom=1703749369&validto=1703756569&rate=500k&burst=2000k&ip=46.3.240.86&ipa=46.3.240.86&hash=WTSthZf25bT54TH%2F5Jo9In2Qmkw%3D
+
 
 Hegre Art,#genre#
 1,
