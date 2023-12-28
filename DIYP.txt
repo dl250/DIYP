@@ -21,6 +21,15 @@ MIDV383,https://dash-s3-n10-ca-cdn.eporner.com/hls/srv6/9674564-1080p.mp4/index-
 拳,#genre#
 1,
 
+欧美,#genre#
+1,https://s69.bigcdn.cc/pubs/658cc1583c5e51.87115263/2160.mp4
+1,https://s69.bigcdn.cc/pubs/658cc1583c5e51.87115263/1080.mp4
+2,https://s45.bigcdn.cc/pubs/658cbfdb4b0584.32571268/2160.mp4
+2,https://s45.bigcdn.cc/pubs/658cbfdb4b0584.32571268/1080.mp4
+3,https://s84.bigcdn.cc/pubs/658ccd0a460b38.49505117/2160.mp4
+3,https://s84.bigcdn.cc/pubs/658ccd0a460b38.49505117/1080.mp4
+4,
+
 
 Hegre Art,#genre#
 1,
