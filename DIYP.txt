@@ -13,7 +13,15 @@ NHDTB-86803,https://cdn1.thedayweplay.lol/30/vod2/0e/c1/ko0pv4ok_12a3dc61f80e474
 SW-906,https://cdn1.thedayweplay.lol/21/vod2/ac/7e/98ny0od2_12a3dc61f90f4742e8d478478eedff049e2fb2555fb5bf/720/v.m3u8
 HJMO-609,https://cdn1.thedayweplay.lol/34/vod2/dc/e1/3k45xxe2_12a3dc61f80a4742e8d478478eedff049e2fb2555fb5bf/720/v.m3u8
 ZMEN-047,https://pjs24.thedayweplay.lol/24/vod2/5a/e6/q2lee1jk_12a3dc61f90a4742e8d478478eedff049e2fb2555fb5bf/720/v.m3u8
-
+STOL-094,https://cdn1.thedayweplay.lol/22/vod2/60/12/2voq3y6k_12a3dc61f90c4742e8d478478eedff049e2fb2555fb5bf/720/v.m3u8
+WAAA-288,https://cdn1.thedayweplay.lol/31/vod2/45/c8/d8w7ovv2_12a3dc61f80f4742e8d478478eedff049e2fb2555fb5bf/720/v.m3u8
+NPH-066,https://cdn1.thedayweplay.lol/21/vod2/4f/64/k4lnod18_12a3dc61f90f4742e8d478478eedff049e2fb2555fb5bf/720/v.m3u8
+NPH-068,https://cdn1.thedayweplay.lol/26/vod2/79/1a/8mwglzok_12a3dc61f9084742e8d478478eedff049e2fb2555fb5bf/720/v.m3u8
+CLUB-822,https://cdn1.thedayweplay.lol/21/vod2/5e/8f/8j59y91k_12a3dc61f90f4742e8d478478eedff049e2fb2555fb5bf/720/v.m3u8
+SKMJ-450,https://cdn1.thedayweplay.lol/30/vod2/80/cc/2rp9epg8_12a3dc61f80e4742e8d478478eedff049e2fb2555fb5bf/720/v.m3u8
+CLUB-812,https://cdn1.thedayweplay.lol/20/vod2/94/5c/dko13dm2_12a3dc61f90e4742e8d478478eedff049e2fb2555fb5bf/720/v.m3u8
+CLUB-807,https://cdn1.thedayweplay.lol/27/vod2/6a/ba/98nljprk_12a3dc61f9094742e8d478478eedff049e2fb2555fb5bf/720/v.m3u8
+LZPL-060,https://cdn1.thedayweplay.lol/33/vod2/fa/0d/j2dgnx2p_12a3dc61f80d4742e8d478478eedff049e2fb2555fb5bf/720/v.m3u8
 古装,#genre#
 1,https://hls-uranus.sb-cd.com/hls/1/2/12116410-,720p,.mp4.urlset/master.m3u8?secure=jwhMsBW9IsvUzORD8gVIBw,1702400751&m=41&d=1&_tid=12116410
 2,https://hls-uranus.sb-cd.com/hls/8/4/8448436-,480p,.mp4.urlset/master.m3u8?secure=JhkXP6yS060sW02j-gQRqA,1702400820&m=30&d=3&_tid=8448436
