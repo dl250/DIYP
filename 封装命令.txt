@@ -28,6 +28,8 @@ cd test
 
  .\ESXi-Customizer-PS-v2.6.0.ps1 -izip .\ESXi670-201912001.zip -pkgDir C:\Users\Administrator\Desktop\test\drivers
 
+--------------------------------------------------------------------------------------------------------------------------------------
+VMware PowerCLI安装
 
 1.下载网卡驱动
 然后去  https://vibsdepot.v-front.de/wiki/index.php/List_of_currently_available_ESXi_packages 查看列表下载对应的网卡驱动
