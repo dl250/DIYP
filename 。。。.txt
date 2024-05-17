@@ -9,10 +9,9 @@
 7,https://c10.trafficdeposit.com/vidi/fe892qzq1l1r7yzj2e2i6kzn106m2/Z81LLle5VGsLyJItxDJznQ/1715921346/5f00fb878b5d3/6638c46acdaf1.vid
 8,https://c9.trafficdeposit.com/vidi/28k2qzu1a1i71z42k2h6kz8186a24/yxH0Z_VolQQQsuYHM1J24g/1715921503/5fd9ded3797e0/6634140984d5a.vid
 古装,#genre#
-1,https://hls-uranus.sb-cd.com/hls/1/2/12116410-,720p,.mp4.urlset/master.m3u8?secure=jwhMsBW9IsvUzORD8gVIBw,1702400751&m=41&d=1&_tid=12116410
-2,https://hls-uranus.sb-cd.com/hls/8/4/8448436-,480p,.mp4.urlset/master.m3u8?secure=JhkXP6yS060sW02j-gQRqA,1702400820&m=30&d=3&_tid=8448436
-3,https://hls-uranus.sb-cd.com/hls/9/0/9092400-,720p,.mp4.urlset/master.m3u8?secure=ymJuQur48L0Kj749pG91gw,1702400880&m=21&d=4&_tid=9092400
-4,https://hls-uranus.sb-cd.com/hls/6/5/6595152-,480p,.mp4.urlset/master.m3u8?secure=Zo2GM85hfy3zWZrkaEbsiQ,1702400951&m=29&d=1&_tid=6595152
-5,https://hls-uranus.sb-cd.com/hls/9/8/9887150-,480p,.mp4.urlset/master.m3u8?secure=4lDxQSyMtpsXuzjFFWB9rA,1702401038&m=28&d=1&_tid=9887150
-6,https://hls-uranus.sb-cd.com/hls/8/8/8813193-,480p,.mp4.urlset/master.m3u8?secure=qlpjyXIggNvNUgffF8SAoA,1702401150&m=19&d=5&_tid=8813193
+1,https://hls-uranus.sb-cd.com/hls/8/4/8448436-,480p,.mp4.urlset/master.m3u8?secure=JhkXP6yS060sW02j-gQRqA,1702400820&m=30&d=3&_tid=8448436
+2,https://hls-uranus.sb-cd.com/hls/9/0/9092400-,720p,.mp4.urlset/master.m3u8?secure=ymJuQur48L0Kj749pG91gw,1702400880&m=21&d=4&_tid=9092400
+3,https://hls-uranus.sb-cd.com/hls/6/5/6595152-,480p,.mp4.urlset/master.m3u8?secure=Zo2GM85hfy3zWZrkaEbsiQ,1702400951&m=29&d=1&_tid=6595152
+4,https://hls-uranus.sb-cd.com/hls/9/8/9887150-,480p,.mp4.urlset/master.m3u8?secure=4lDxQSyMtpsXuzjFFWB9rA,1702401038&m=28&d=1&_tid=9887150
+5,https://hls-uranus.sb-cd.com/hls/8/8/8813193-,480p,.mp4.urlset/master.m3u8?secure=qlpjyXIggNvNUgffF8SAoA,1702401150&m=19&d=5&_tid=8813193
 
